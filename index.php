@@ -5,7 +5,6 @@
 
 </head>
 <body>
-Page Content Here
-
+I like fluffy bunnies
 </body>
 </html>
